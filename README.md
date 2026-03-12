@@ -1,6 +1,6 @@
 # ☣️ Virus Collection (Educational / Research Only)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![VBS](https://img.shields.io/badge/Language-VBScript-green)
 ![Batch](https://img.shields.io/badge/Language-Batch-black)
 ![Purpose](https://img.shields.io/badge/Purpose-Security_Research-yellow)
@@ -110,4 +110,5 @@ The author **is not responsible for any damage caused by misuse**.
 These scripts **may harm a real system**.
 
 **Only run them in isolated environments designed for malware testing.**
+
 
