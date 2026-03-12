@@ -1,4 +1,4 @@
-# ☣️ Virus Collection - Multi‑Language (Educational / Research Only)
+# ☣️ Virus Collection (Educational / Research Only)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![VBS](https://img.shields.io/badge/Language-VBScript-green)
@@ -110,3 +110,4 @@ The author **is not responsible for any damage caused by misuse**.
 These scripts **may harm a real system**.
 
 **Only run them in isolated environments designed for malware testing.**
+
