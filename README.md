@@ -1,13 +1,5 @@
 # ☣️ Virus Collection (Educational / Research Only)
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
-![VBS](https://img.shields.io/badge/Language-VBScript-green)
-![Batch](https://img.shields.io/badge/Language-Batch-black)
-![Purpose](https://img.shields.io/badge/Purpose-Security_Research-yellow)
-![Warning](https://img.shields.io/badge/⚠️-Real_Malware_Code-red)
-
----
-
 > ⚠️ **WARNING:** This repository contains **real virus code** written in multiple scripting languages.  
 > Some programs may include **screen flashing or destructive behavior** and can **harm your PC or files** if executed.  
 >  
